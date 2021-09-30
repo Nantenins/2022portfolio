@@ -11,7 +11,7 @@ body {
 	margin: 0 auto;
 }
 .header {
-	background: #AAAAAA;
+	background: #91E7F0;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -34,11 +34,10 @@ body {
 	margin: 0px;
 	float: left;
 	width: 100%;
-	height: 400px;
 	text-align: center;
 }
 .footer {
-	background: #777777;
+	background: #B3F7FF;
 	margin: 0px;
 	float: left;
 	width: 100%;
